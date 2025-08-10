@@ -45,10 +45,6 @@
   <img src="https://streak-stats.demolab.com?user=MithileshwaranS&theme=radical" height="150" />
 </p>
 
-<!-- LeetCode Stats -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mithileshwaran?theme=dark&font=Karma" alt="LeetCode Stats" height="250" />
-</p>
 
 <!-- LeetCode Heatmap -->
 <p align="center">
