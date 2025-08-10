@@ -6,7 +6,6 @@
        height="300" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Mithileshwaran S</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
@@ -22,17 +21,17 @@
 
 ## 🛠 Tech Stack  
 
-**Languages:**  
+**Languages**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" />
 </p>
 
-**Frameworks & Libraries:**  
+**Frameworks & Libraries**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow&theme=dark" />
 </p>
 
-**Databases & Tools:**  
+**Databases & Tools**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,vscode&theme=dark" />
 </p>
@@ -40,24 +39,33 @@
 ---
 
 ## 📊 Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithileshwaranS&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://streak-stats.demolab.com?user=MithileshwaranS&theme=radical" alt="GitHub Streak" height="150" />
-</p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Mithileshwaran?theme=dark&font=Karma" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MithileshwaranS&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=MithileshwaranS&theme=radical" height="150" />
+</p>
+
+<!-- LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mithileshwaran?theme=dark&font=Karma" alt="LeetCode Stats" height="250" />
+</p>
+
+<!-- LeetCode Heatmap -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mithileshwaran?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap" height="250" />
 </p>
 
 ---
 
 ## 🚀 Projects  
+
 ### [TexelTech](http://www.texeltech.info)  
 A website built for the textile industry to automate daily operations and minimize errors.
 
 ---
 
 ## 📫 Connect with Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mithilesh-s/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" /></a>
   <a href="mailto:mithileshwaran24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" /></a>
