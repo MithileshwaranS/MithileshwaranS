@@ -1,58 +1,72 @@
-<!-- Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" />
+<!-- Cover Image -->
+<p align="center">
+  <img src="COVER_IMAGE_URL" alt="Mithileshwaran S | Software Engineer" width="100%">
+</p>
 
-# Hi there, I'm Mithileshwaran S 👋  
-**Software Engineer | Full-Stack Developer | Problem Solver**  
-🎓 Final Year ELC Student at Amrita University  
-💡 Passionate about building scalable software solutions and exploring AI  
-🚀 Skilled in Python, Java, JavaScript, React, Node.js, Express, TensorFlow  
-🌱 Always learning & improving through problem-solving and projects  
+<h1 align="center">Hi 👋, I'm Mithileshwaran S</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me  
+🎓 Final Year ELC Student at Amrita University  
+💻 Passionate about building scalable software solutions  
+🛠 Skilled in **Python, Java, JavaScript, React, Node.js, Express, TensorFlow**  
+📊 Interested in AI, Web Development, and Problem Solving  
+
+---
+
+## 🛠 Tech Stack  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 **Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 **Databases & Tools:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats  
 
-**GitHub Stats**  
-![Mithileshwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=MithileshwaranS&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=MithileshwaranS&theme=radical)  
-
-**LeetCode Stats**  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mithileshwaran?theme=dark&font=Karma)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MithileshwaranS&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MithileshwaranS&theme=tokyonight" alt="GitHub Streak" height="160px"/>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🏆 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Mithileshwaran?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## 📂 Featured Project  
 
 ### [TexelTech](http://www.texeltech.info)  
-A website built for the textile industry to automate daily operations and minimize errors.
+A website built for the textile industry to **automate daily operations** and **minimize errors** in work processes.  
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilesh-s/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mithileshwaran24@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MithileshwaranS)  
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithilesh-s/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithileshwaran24@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MithileshwaranS)  
 
 ---
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
+
+⭐️ From [Mithileshwaran S](https://github.com/MithileshwaranS)
