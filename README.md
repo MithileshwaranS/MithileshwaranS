@@ -1,7 +1,11 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Mithileshwaran S | Software Engineer" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" 
+       alt="Mithileshwaran S | Software Engineer" 
+       width="900" 
+       height="300" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Mithileshwaran S</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
