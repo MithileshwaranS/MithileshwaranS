@@ -20,8 +20,6 @@
 
 ## 🙋‍♂️ About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="500">
-
 </div>
 
 <table align="center">
@@ -44,8 +42,6 @@ status: Building the future, one commit at a time
 
 ### 🎯 Current Focus
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
-
 - 🚀 Enterprise web applications
 - 🧠 System design & architecture
 - 🤝 Open-source collaboration
@@ -60,66 +56,57 @@ status: Building the future, one commit at a time
 
 ### 💡 Interests & Passions
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Web Development** | 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **AI & Machine Learning** | 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Problem Solving** | 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **Open Source**
-
-</div>
-
-<div align="center">
+**Web Development** | **AI & Machine Learning** | **Problem Solving** | **Open Source**
 
 ### 💬 Ask Me About
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Development;Python+%7C+React+%7C+Node.js;AI+%26+Machine+Learning;Data+Structures+%26+Algorithms;System+Design+%26+Architecture" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-
 ### ⚡ Fun Fact
 
 *"I believe good code is like a good joke – if you have to explain it, it needs refactoring!"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Arsenal
 
 ### **Languages**
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css&theme=dark" />
 </p>
 
 ### **Frontend Development**
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux&theme=dark" />
 </p>
 
 ### **Backend Development**
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" />
 </p>
 
 ### **Databases**
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
 </p>
 
 ### **AI/ML & Data Science**
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40"/>
 </p>
 
 ### **DevOps & Tools**
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark" />
 </p>
+
+</div>
 
 ---
 
@@ -167,7 +154,9 @@ status: Building the future, one commit at a time
 ### 🏭 [TexelTech](http://www.texeltech.info)
 **A Comprehensive Textile Industry Management System**
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<table>
+<tr>
+<td width="60%">
 
 **Key Features:**
 - 📊 Real-time inventory tracking and management
@@ -180,21 +169,65 @@ status: Building the future, one commit at a time
 
 **Impact:** Reduced operational errors by 40% and improved efficiency by 60%
 
+</td>
+<td width="40%">
+
+```
+┌─────────────────────────┐
+│   TEXELTECH SYSTEM     │
+├─────────────────────────┤
+│ ✓ Inventory Management │
+│ ✓ Workflow Automation  │
+│ ✓ Analytics Dashboard  │
+│ ✓ Smart Notifications  │
+│ ✓ Access Control       │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🔮 Other Notable Projects
+### 📦 QueueCTL
+**Command-Line Queue Management System**
 
-<details>
-<summary><b>📱 Project Name 2</b></summary>
-<br>
-Brief description of your second major project, its purpose, and technologies used.
-</details>
+<table>
+<tr>
+<td width="40%">
 
-<details>
-<summary><b>🎮 Project Name 3</b></summary>
-<br>
-Brief description of your third major project, its purpose, and technologies used.
-</details>
+```
+┌─────────────────────────┐
+│     QUEUECTL CLI       │
+├─────────────────────────┤
+│ ⚡ Job Status Tracking │
+│ 🔄 Task Scheduling     │
+│ 📊 Performance Metrics │
+│ 🛡️ Fault Tolerance     │
+│ 🔌 Easy Integration    │
+└─────────────────────────┘
+```
+
+</td>
+<td width="60%">
+
+A powerful CLI tool for managing distributed task queues with real-time monitoring and job scheduling capabilities.
+
+**Key Features:**
+- ⚡ Real-time job status tracking
+- 🔄 Priority-based task scheduling
+- 📊 Performance metrics dashboard
+- 🛡️ Fault-tolerant architecture
+- 🔌 Easy integration with existing systems
+
+**Tech Stack:** `Python` `Redis` `Click` `Rich CLI`
+
+[View Project →](https://github.com/MithileshwaranS/queuectl)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -255,8 +288,12 @@ Brief description of your third major project, its purpose, and technologies use
 
 ## 🐍 Contribution Graph
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MithileshwaranS&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MithileshwaranS/MithileshwaranS/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MithileshwaranS&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---
