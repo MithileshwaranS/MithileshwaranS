@@ -16,28 +16,74 @@
 
 ---
 
+<div align="center">
+
 ## 🙋‍♂️ About Me
+
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="500">
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Personal Info
 
 ```yaml
 name: Mithileshwaran S
 role: Software Engineer | Full-Stack Developer
-education: Final Year ELC Student @ Amrita University
-location: Karur, Tamil Nadu, India
-interests:
-  - Building scalable web applications
-  - Artificial Intelligence & Machine Learning
-  - Problem Solving & Competitive Programming
-  - Open Source Contribution
-current_focus: Creating efficient, user-centric software solutions
-philosophy: "Clean code, continuous learning, and impactful innovation"
+education: Final Year ELC Student
+university: Amrita University
+location: Karur, Tamil Nadu 🇮🇳
+status: Building the future, one commit at a time
 ```
 
-🎯 **What I'm Currently Doing:**
-- 🔭 Working on enterprise-level web applications
-- 🌱 Learning advanced system design and cloud architecture
-- 👯 Looking to collaborate on innovative open-source projects
-- 💬 Ask me about **Web Development, Python, React, Node.js, or AI/ML**
-- ⚡ Fun fact: I believe good code is like a good joke – if you have to explain it, it needs refactoring!
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+
+- 🚀 Enterprise web applications
+- 🧠 System design & architecture
+- 🤝 Open-source collaboration
+- 📚 Continuous learning
+- 💡 Building impactful solutions
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 Interests & Passions
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Web Development** | 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> **AI & Machine Learning** | 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30"> **Problem Solving** | 
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> **Open Source**
+
+</div>
+
+<div align="center">
+
+### 💬 Ask Me About
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Development;Python+%7C+React+%7C+Node.js;AI+%26+Machine+Learning;Data+Structures+%26+Algorithms;System+Design+%26+Architecture" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+*"I believe good code is like a good joke – if you have to explain it, it needs refactoring!"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+
+</div>
 
 ---
 
